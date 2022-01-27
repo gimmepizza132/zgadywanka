@@ -1,5 +1,5 @@
 const Komponent = () => {
-    return <div>20 na styk lol</div>;
+  return <div>3 całkiem mało</div>;
 };
 
-export default Komponent
+export default Komponent;
